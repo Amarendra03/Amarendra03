@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey, I'm Amarendra🙌
 🌱 I’m currently learning Data Structures & Algorithms and Frontend Web Development  <br><br>💻 I’m currently working on Web Development projects and improving my problem-solving skills  <br><br>🤝 I’m looking to collaborate on beginner-friendly Open Source and Web Development projects  <br><br>📚 I’m looking for help with advanced JavaScript and backend development  <br><br>💬 Ask me about HTML, CSS, Java, DSA, and GitHub  <br><br>⚡ Fun fact: I enjoy solving coding problems and learning new technologies every day
 
 
